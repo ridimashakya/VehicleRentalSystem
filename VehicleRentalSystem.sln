@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRental.Domain", "VehicleRental.Domain\VehicleRental.Domain.csproj", "{0EED9FBE-46B6-473D-B214-9F59FD653A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRental.Application", "VehicleRental.Application\VehicleRental.Application.csproj", "{0B9F4F16-A196-421A-857E-C93157521D69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRental.Infrastructure", "VehicleRental.Infrastructure\VehicleRental.Infrastructure.csproj", "{EC7B2020-E029-4362-ACE8-384AFA33B9DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRental.API", "VehicleRental.API\VehicleRental.API.csproj", "{0A88952A-06ED-4528-BE93-CDB5F98FDAD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRental.Web", "VehicleRental.Web\VehicleRental.Web.csproj", "{EE5D6FA7-7466-4464-8B3A-A52F953AB3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EED9FBE-46B6-473D-B214-9F59FD653A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EED9FBE-46B6-473D-B214-9F59FD653A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EED9FBE-46B6-473D-B214-9F59FD653A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EED9FBE-46B6-473D-B214-9F59FD653A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9F4F16-A196-421A-857E-C93157521D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9F4F16-A196-421A-857E-C93157521D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9F4F16-A196-421A-857E-C93157521D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9F4F16-A196-421A-857E-C93157521D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7B2020-E029-4362-ACE8-384AFA33B9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7B2020-E029-4362-ACE8-384AFA33B9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7B2020-E029-4362-ACE8-384AFA33B9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7B2020-E029-4362-ACE8-384AFA33B9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A88952A-06ED-4528-BE93-CDB5F98FDAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A88952A-06ED-4528-BE93-CDB5F98FDAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A88952A-06ED-4528-BE93-CDB5F98FDAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A88952A-06ED-4528-BE93-CDB5F98FDAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5D6FA7-7466-4464-8B3A-A52F953AB3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5D6FA7-7466-4464-8B3A-A52F953AB3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5D6FA7-7466-4464-8B3A-A52F953AB3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5D6FA7-7466-4464-8B3A-A52F953AB3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87ABF2D9-2D95-44B2-BC62-031104737127}
+	EndGlobalSection
+EndGlobal
